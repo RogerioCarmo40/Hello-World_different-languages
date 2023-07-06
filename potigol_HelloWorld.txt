@@ -1,0 +1,15 @@
+# Imperativo
+escreva "Olá Mundo!"
+
+# Funcional
+ola = (nome: Texto) => "Ola {nome}!"
+escreva ola("Mundo")
+
+# Orientado a Objetos
+tipo Ola
+  nome: Texto
+  saudação() = "Olá {nome}!"
+fim
+
+olamundo = Ola("Mundo")
+escreva olamundo.saudação
