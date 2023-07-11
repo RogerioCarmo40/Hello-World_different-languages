@@ -1,0 +1,12 @@
+{
+                            Online Pascal Compiler.
+                Code, Compile, Run and Debug Pascal program online.
+Write your code in this editor and press "Run" button to execute it.
+
+}
+//Linguagem Pascal
+
+program Hello;
+begin
+  writeln ('Hello World');
+end.
