@@ -1,0 +1,6 @@
+--Declaracoes de bibliotecas
+Procedure nome_do_programa is
+--Declaracoes de variaveis
+begin
+--Corpo do programa com as instrucoes e calculos
+end nome_do_programa;
